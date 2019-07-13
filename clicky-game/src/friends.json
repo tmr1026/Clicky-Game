@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "image": "https://vignette.wikia.nocookie.net/daria/images/d/de/Tumblr_lmpq9bwbyP1qj0esdo1_400.jpg/revision/latest?cb=20110708181748",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://vignette.wikia.nocookie.net/daria/images/8/83/Jane_Lane_by_Namelessv1.png/revision/latest/scale-to-width-down/250?cb=20110708183549",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "https://vignette.wikia.nocookie.net/daria/images/c/c3/Trent.jpg/revision/latest/top-crop/width/200/height/150?cb=20190518193826",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "https://vignette.wikia.nocookie.net/daria/images/7/72/35C8125A-AA97-4E82-9772-25217C1C05F7.jpeg/revision/latest/top-crop/width/200/height/150?cb=20190527004500",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "https://vignette.wikia.nocookie.net/daria/images/a/a5/Jodie_Landon.jpg/revision/latest/top-crop/width/200/height/150?cb=20080625010605",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "https://vignette.wikia.nocookie.net/daria/images/4/4e/9CA5A65F-9841-4D53-A956-0ECFEF066905.jpeg/revision/latest/top-crop/width/200/height/150?cb=20181009143906",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "https://vignette.wikia.nocookie.net/daria/images/7/7c/Tiffany.png/revision/latest/top-crop/width/200/height/150?cb=20110817015220",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://vignette.wikia.nocookie.net/daria/images/6/63/250px-Mack.jpg/revision/latest?cb=20190520023425",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://vignette.wikia.nocookie.net/daria/images/6/65/Kevin_Thompson.jpg/revision/latest/window-crop/width/40/x-offset/7/y-offset/0/window-width/342/window-height/256?cb=20080625001956",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "https://vignette.wikia.nocookie.net/daria/images/8/84/HelenMorgandorffer.jpg/revision/latest?cb=20190518213110",
+      "clicked": false
+    }
+  ]
